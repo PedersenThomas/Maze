@@ -1,0 +1,1 @@
+go test -v "github.com/pedersenthomas/maze/test"
